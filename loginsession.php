@@ -55,7 +55,7 @@
    </form>
 
    <p style="margin-left: 2rem;"> 
-      <a href = "logout.php" tite = "Logout">Click here to clean Session.</a>
+      <a href = "logout.php" title = "Logout">Click here to clean Session.</a>
    </p>
    </div> 
 </body>
